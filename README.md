@@ -4,7 +4,7 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MalharBhatt-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rahulshek&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Full-Stack Developer | Backend-Focused Engineering | Scalable Systems
 
 ### 🚀 Featured Projects
 
-### <a href="https://github.com/MalharBhatt-dev/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
+### <a href="https://github.com/rahulshek/Facial-Recognition-Attendance-System">🔹 Facial Recognition Attendance System </a> 
 **Tech:** Python • Flask • OpenCV • InsightFace • ONNX Runtime • HTML/CSS/JS  
 
 Designed and implemented a computer vision-based attendance platform integrating real-time facial recognition with automated logging and scalable backend processing.
@@ -35,7 +35,7 @@ Designed and implemented a computer vision-based attendance platform integrating
 - Automated timestamped attendance logging  
 - ERP integration support  
 
-### <a href="https://github.com/MalharBhatt-dev/BankApplication">🔹 Bank Management System (JavaFX)  </a>
+### <a href="https://github.com/rahulshek/BankApplication">🔹 Bank Management System (JavaFX)  </a>
 **Tech:** Java • JavaFX • OOP  
 
 Desktop banking application simulating core banking operations with structured transaction management.
@@ -94,8 +94,8 @@ Android application for personal expense tracking and financial management.
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api?username=MalharBhatt-dev&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api/top-langs/?username=MalharBhatt-dev&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api?username=rahulshek&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-eosin-kappa-59.vercel.app/api/top-langs/?username=rahulshek&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
