@@ -106,7 +106,7 @@ Android application for personal expense tracking and financial management.
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malhar-bhatt-6736041ab">
+  <a href="[https://www.linkedin.com/in/malhar-bhatt-6736041ab](https://github.com/rahulshek)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:malharbhatt.devs@gmail.com">
