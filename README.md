@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/rahulshek.png" width="120" style="border-radius: 50%;" alt="Rahul Shekhawat"/>
+</p>
+ 
 <h1 align="center">Hi, I'm Rahul Shekhawat 👋</h1>
  
 <h3 align="center">
@@ -174,3 +178,4 @@
 <p align="center">
   <i>"Code is structured problem-solving — clarity creates impact."</i>
 </p>
+ 
